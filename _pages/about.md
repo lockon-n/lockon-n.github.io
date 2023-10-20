@@ -57,28 +57,28 @@ Jinyuan Wang, **Junlong Li**, Hai Zhao \\
 <font color="CornFlowerBlue">Dialogue-adaptive language model pre-training from quality estimation
 </font>
 **Junlong Li**, Zhuosheng Zhang, Hai Zhao \\
-Neurocomputing, 2022 |  [PDF](https://arxiv.org/abs/2009.04984) | [Code](https://github.com/lockon-n/DAPO)
+**Neurocomputing, 2022** |  [PDF](https://arxiv.org/abs/2009.04984) | [Code](https://github.com/lockon-n/DAPO)
 </div>
 
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">DiT: Self-supervised pre-training for document image transformer
 </font>
 **Junlong Li**, Yiheng Xu, Tengchao Lv, Lei Cui, Cha Zhang, Furu Wei \\
-ACM Multimedia 2022 |  [PDF](https://arxiv.org/abs/2203.02378) | [Code](https://github.com/microsoft/unilm/tree/master/dit)
+**ACM Multimedia 2022** |  [PDF](https://arxiv.org/abs/2203.02378) | [Code](https://github.com/microsoft/unilm/tree/master/dit)
 </div>
 
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Markuplm: Pre-training of text and markup language for visually-rich document understanding
 </font>
 **Junlong Li**\*, Yiheng Xu\*, Lei Cui, Furu Wei \\
-ACL 2022 |  [PDF](https://arxiv.org/abs/2110.08518) | [Code](https://github.com/microsoft/unilm/tree/master/markuplm)
+**ACL 2022** |  [PDF](https://arxiv.org/abs/2110.08518) | [Code](https://github.com/microsoft/unilm/tree/master/markuplm)
 </div>
 
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Multi-turn dialogue reading comprehension with pivot turns and knowledge
 </font>
 Zhuosheng Zhang, **Junlong Li**, Hai Zhao \\
-TASLP, 2021 |  [PDF](https://arxiv.org/abs/2102.05474) | [Code](https://github.com/lockon-n/KKT)
+**TASLP, 2021** |  [PDF](https://arxiv.org/abs/2102.05474) | [Code](https://github.com/lockon-n/KKT)
 </div>
 
 # Educations
