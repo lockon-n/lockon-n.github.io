@@ -44,7 +44,7 @@ Ethan Chern\*, Haoyang Zou\*, Xuefeng Li\*, Jiewen Hu\*, Kehua Feng, **Junlong L
 <font color="CornFlowerBlue">Self-prompted Chain-of-Thought on Large Language Models for
 Open-domain Multi-hop Reasoning</font>
 Jinyuan Wang, **Junlong Li**, Hai Zhao \\
-**EMNLP 2023, Findings** | [Code](https://github.com/noewangjy/SP-CoT)
+**EMNLP 2023, Findings** | [PDF](http://arxiv.org/abs/2310.13552) |[Code](https://github.com/noewangjy/SP-CoT)
 </div>
 
 <div class='paper-box-text' markdown="1">
