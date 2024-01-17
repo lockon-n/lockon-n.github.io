@@ -28,10 +28,24 @@ Currently, I work closely with [Prof. Pengfei Liu](http://pfliu.com/) at [GAIR](
 (* indicates equal contribution)
 
 <div class='paper-box-text' markdown="1">
+<font color="CornFlowerBlue">Extending LLMs' Context Window with 100 Samples
+</font>
+Yikai Zhang, **Junlong Li**, Pengfei Liu\\
+**Preprint, 2024** |  [PDF](https://arxiv.org/abs/2401.07004) | [Code](https://github.com/GAIR-NLP/Entropy-ABF)
+</div>
+
+<div class='paper-box-text' markdown="1">
+<font color="CornFlowerBlue">The Critique of Critique
+</font>
+Shichao Sun, **Junlong Li**, Weizhe Yuan, Ruifeng Yuan, Wenjie Li, Pengfei Liu\\
+**Preprint, 2024** |  [PDF](https://arxiv.org/abs/2401.04518) | [Code](https://github.com/GAIR-NLP/MetaCritique)
+</div>
+
+<div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Generative Judge for Evaluating Alignment
 </font>
 **Junlong Li**, Shichao Sun, Weizhe Yuan, Run-Ze Fan, Hai Zhao, Pengfei Liu \\
-**Preprint, 2023** |  [PDF](https://arxiv.org/abs/2310.05470) | [Code](https://github.com/GAIR-NLP/auto-j) | [Page](https://gair-nlp.github.io/auto-j/)
+**ICLR 2024** |  [PDF](https://arxiv.org/abs/2310.05470) | [Code](https://github.com/GAIR-NLP/auto-j) | [Page](https://gair-nlp.github.io/auto-j/)
 </div>
 
 <div class='paper-box-text' markdown="1">
