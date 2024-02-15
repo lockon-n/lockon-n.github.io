@@ -104,6 +104,10 @@ Zhuosheng Zhang, **Junlong Li**, Hai Zhao \\
 
 - *2023.10*, Invited talk at CIKM 2023 Workshop on Document Intelligence and Understanding.
 
+# Service
+
+- Reviewer: ACM MM (2023, 2024), ARR (Feb 2024)
+
 # Awards
 
 - MSRA Stars of Tomorrow (Award of Excellent Intern), 2022
