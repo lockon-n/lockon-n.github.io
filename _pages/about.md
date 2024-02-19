@@ -23,6 +23,9 @@ I used to work as a research intern at Microsoft Research Asia (MSRA) in the [NL
 
 Currently, I work closely with [Prof. Pengfei Liu](http://pfliu.com/) at [GAIR](https://plms.ai/) on various aspects of Large Language Models (LLMs), primarily focusing on the evaluation and alignment of LLMs.
 
+<a href='https://scholar.google.com/citations?user=UX7TpSYAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Flockon-n.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
 # Publications
 
 (* indicates equal contribution)
