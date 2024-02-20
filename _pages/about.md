@@ -31,6 +31,20 @@ Currently, I work closely with [Prof. Pengfei Liu](http://pfliu.com/) at [GAIR](
 (* indicates equal contribution)
 
 <div class='paper-box-text' markdown="1">
+<font color="CornFlowerBlue">Dissecting Human and LLM Preferences
+</font>
+**Junlong Li**, Fan Zhou, Shichao Sun, Yikai Zhang, Hai Zhao, Pengfei Liu\\
+**Preprint, 2024** |  [PDF](https://arxiv.org/abs/2402.11296) | [Demo](https://huggingface.co/spaces/GAIR/Preference-Dissection-Visualization) | [Code](https://github.com/GAIR-NLP/Preference-Dissection) | [Dataset](https://huggingface.co/datasets/GAIR/preference-dissection)
+</div>
+
+<div class='paper-box-text' markdown="1">
+<font color="CornFlowerBlue">Reformatted Alignment
+</font>
+Run-Ze Fan, Xuefeng Li, Haoyang Zou, **Junlong Li**, Shwai He, Ethan Chern, Jiewen Hu, Pengfei Liu\\
+**Preprint, 2024** |  [PDF](https://arxiv.org/abs/2402.12219) | [Code](https://github.com/GAIR-NLP/ReAlign) | [Page](https://gair-nlp.github.io/ReAlign/)
+</div>
+
+<div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Extending LLMs' Context Window with 100 Samples
 </font>
 Yikai Zhang, **Junlong Li**, Pengfei Liu\\
