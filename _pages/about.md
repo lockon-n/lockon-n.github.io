@@ -21,7 +21,9 @@ I am currently a second-year Master's student at [Shanghai Jiao Tong University]
 
 I used to work as a research intern at Microsoft Research Asia (MSRA) in the [NLC group](https://www.microsoft.com/en-us/research/group/natural-language-computing/), guided by [Dr. Lei Cui](https://www.microsoft.com/en-us/research/people/lecu/). I worked on several interesting research topics related to Document AI, including webpage understanding and document Image foundation models.
 
-Currently, I work closely with [Prof. Pengfei Liu](http://pfliu.com/) at [GAIR](https://plms.ai/) on various aspects of Large Language Models (LLMs), primarily focusing on the evaluation and alignment of LLMs.
+During May 2023 to Feb 2024, I worked closely with [Prof. Pengfei Liu](http://pfliu.com/) at [GAIR](https://plms.ai/) on various aspects of Large Language Models (LLMs), primarily focusing on the evaluation and alignment of LLMs.
+
+Currently, I am doing some research under the supervision of [Prof. Junxian He](https://jxhe.github.io/).
 
 <a href='https://scholar.google.com/citations?user=UX7TpSYAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Flockon-n.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
@@ -81,7 +83,7 @@ Jinyuan Wang, **Junlong Li**, Hai Zhao \\
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Self-Prompting Large Language Models for Zero-Shot Open-Domain QA</font>
 **Junlong Li**, Zhuosheng Zhang, Hai Zhao \\
-**Preprint, 2022** |  [PDF](https://arxiv.org/abs/2212.08635) 
+**NAACL 2024** |  [PDF](https://arxiv.org/abs/2212.08635) 
 </div>
 
 <div class='paper-box-text' markdown="1">
