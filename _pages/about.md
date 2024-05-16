@@ -36,7 +36,7 @@ Currently, I am doing some research under the supervision of [Prof. Junxian He](
 <font color="CornFlowerBlue">Dissecting Human and LLM Preferences
 </font>
 **Junlong Li**, Fan Zhou, Shichao Sun, Yikai Zhang, Hai Zhao, Pengfei Liu\\
-**Preprint, 2024** |  [PDF](https://arxiv.org/abs/2402.11296) | [Demo](https://huggingface.co/spaces/GAIR/Preference-Dissection-Visualization) | [Code](https://github.com/GAIR-NLP/Preference-Dissection) | [Dataset](https://huggingface.co/datasets/GAIR/preference-dissection)
+**ACL 2024** |  [PDF](https://arxiv.org/abs/2402.11296) | [Demo](https://huggingface.co/spaces/GAIR/Preference-Dissection-Visualization) | [Code](https://github.com/GAIR-NLP/Preference-Dissection) | [Dataset](https://huggingface.co/datasets/GAIR/preference-dissection)
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -57,7 +57,7 @@ Yikai Zhang, **Junlong Li**, Pengfei Liu\\
 <font color="CornFlowerBlue">The Critique of Critique
 </font>
 Shichao Sun, **Junlong Li**, Weizhe Yuan, Ruifeng Yuan, Wenjie Li, Pengfei Liu\\
-**Preprint, 2024** |  [PDF](https://arxiv.org/abs/2401.04518) | [Code](https://github.com/GAIR-NLP/MetaCritique)
+**ACL 2024, Findings** |  [PDF](https://arxiv.org/abs/2401.04518) | [Code](https://github.com/GAIR-NLP/MetaCritique)
 </div>
 
 <div class='paper-box-text' markdown="1">
