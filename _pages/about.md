@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year Master's student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), under the supervision of [Prof. Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/), majoring in computer science. Before that, I received my B.S. degree in the IEEE honor class at SJTU in 2022, majoring in computer science. I also collaborated with [Dr. Zhuosheng Zhang](https://bcmi.sjtu.edu.cn/~zhangzs/) during my undergraduate years.
+I am currently a third-year Master's student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), under the supervision of [Prof. Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/), majoring in computer science. Before that, I received my B.S. degree in the IEEE honor class at SJTU in 2022, majoring in computer science. I also collaborated with [Dr. Zhuosheng Zhang](https://bcmi.sjtu.edu.cn/~zhangzs/) during my undergraduate years.
 
 I used to work as a research intern at Microsoft Research Asia (MSRA) in the [NLC group](https://www.microsoft.com/en-us/research/group/natural-language-computing/), guided by [Dr. Lei Cui](https://www.microsoft.com/en-us/research/people/lecu/). I worked on several interesting research topics related to Document AI, including webpage understanding and document Image foundation models.
 
