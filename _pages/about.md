@@ -43,7 +43,7 @@ Currently, I am doing some research under the supervision of [Prof. Junxian He](
 <font color="CornFlowerBlue">Reformatted Alignment
 </font>
 Run-Ze Fan, Xuefeng Li, Haoyang Zou, **Junlong Li**, Shwai He, Ethan Chern, Jiewen Hu, Pengfei Liu\\
-**Preprint, 2024** |  [PDF](https://arxiv.org/abs/2402.12219) | [Code](https://github.com/GAIR-NLP/ReAlign) | [Page](https://gair-nlp.github.io/ReAlign/)
+**EMNLP 2024, Findings** |  [PDF](https://arxiv.org/abs/2402.12219) | [Code](https://github.com/GAIR-NLP/ReAlign) | [Page](https://gair-nlp.github.io/ReAlign/)
 </div>
 
 <div class='paper-box-text' markdown="1">
