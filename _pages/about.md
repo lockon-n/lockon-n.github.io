@@ -125,7 +125,7 @@ Zhuosheng Zhang, **Junlong Li**, Hai Zhao \\
 
 # Service
 
-- Reviewer: ACM MM, ARR. ICLR
+- Reviewer: ACM MM, ARR, ICLR
 # Awards
 
 - MSRA Stars of Tomorrow (Award of Excellent Intern), 2022
