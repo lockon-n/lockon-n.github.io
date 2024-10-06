@@ -33,6 +33,13 @@ Currently, I am doing some research under the supervision of [Prof. Junxian He](
 (* indicates equal contribution)
 
 <div class='paper-box-text' markdown="1">
+<font color="CornFlowerBlue">Programming Every Example: Lifting Pre-training Data Quality like Experts at Scale
+</font>
+Fan Zhou*, Zengzhi Wang*, Qian Liu, **Junlong Li**, Pengfei Liu\\
+**Preprint, 2024** |  [PDF](https://arxiv.org/abs/2409.17115) | [Code](https://github.com/GAIR-NLP/ProX) | [Page](https://gair-nlp.github.io/ProX) | [HF Repo](https://huggingface.co/gair-prox)
+</div>
+
+<div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Dissecting Human and LLM Preferences
 </font>
 **Junlong Li**, Fan Zhou, Shichao Sun, Yikai Zhang, Hai Zhao, Pengfei Liu\\
