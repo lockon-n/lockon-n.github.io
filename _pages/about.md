@@ -89,7 +89,7 @@ Jinyuan Wang, **Junlong Li**, Hai Zhao \\
 
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Self-Prompting Large Language Models for Zero-Shot Open-Domain QA</font>
-**Junlong Li**, Zhuosheng Zhang, Hai Zhao \\
+**Junlong Li**, Jinyuan Wang, Zhuosheng Zhang, Hai Zhao \\
 **NAACL 2024** |  [PDF](https://arxiv.org/abs/2212.08635) 
 </div>
 
