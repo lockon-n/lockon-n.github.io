@@ -135,6 +135,8 @@ Zhuosheng Zhang, **Junlong Li**, Hai Zhao \\
 - Reviewer: ACM MM, ARR, ICLR
 # Awards
 
+- Yang Yuanqing Education Scholarship (top 0.3%), 2024
+
 - MSRA Stars of Tomorrow (Award of Excellent Intern), 2022
 
 - National Scholarship (top 2%), 2022
