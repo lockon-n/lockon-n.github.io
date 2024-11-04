@@ -33,6 +33,13 @@ Currently, I am doing some research under the supervision of [Prof. Junxian He](
 (* indicates equal contribution)
 
 <div class='paper-box-text' markdown="1">
+<font color="CornFlowerBlue">Diving into Self-Evolving Training for Multimodal Reasoning
+</font>
+Wei Liu\*, **Junlong Li**\*, Xiwen Zhang, Fan Zhou, Yu Cheng, Junxian He\\
+**Preprint, 2024** |  [Project](https://mstar-lmm.github.io)
+</div>
+
+<div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Programming Every Example: Lifting Pre-training Data Quality like Experts at Scale
 </font>
 Fan Zhou\*, Zengzhi Wang\*, Qian Liu, **Junlong Li**, Pengfei Liu\\
