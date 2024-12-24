@@ -36,7 +36,7 @@ Currently, I am doing some research under the supervision of [Prof. Junxian He](
 <font color="CornFlowerBlue">Diving into Self-Evolving Training for Multimodal Reasoning
 </font>
 Wei Liu\*, **Junlong Li**\*, Xiwen Zhang, Fan Zhou, Yu Cheng, Junxian He\\
-**Preprint, 2024** |  [Project](https://mstar-lmm.github.io)
+**Preprint, 2024** |  [PDF](https://arxiv.org/abs/2412.17451) | [Code](https://github.com/hkust-nlp/mstar) | [Page](https://mstar-lmm.github.io/) | [HF Repo](https://huggingface.co/xxxxx)
 </div>
 
 <div class='paper-box-text' markdown="1">
