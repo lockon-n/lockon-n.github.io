@@ -17,13 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year Master's student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), under the supervision of [Prof. Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/), majoring in computer science. Before that, I received my B.S. degree in the IEEE honor class at SJTU in 2022, majoring in computer science. I also collaborated with [Dr. Zhuosheng Zhang](https://bcmi.sjtu.edu.cn/~zhangzs/) during my undergraduate years.
+I am an incoming CS PhD student at HKUST, supervised by [Prof. Junxian He](https://jxhe.github.io/). I was a Master's student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), under the supervision of [Prof. Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/), majoring in computer science. Before that, I received my B.S. degree in the IEEE honor class at SJTU in 2022, majoring in computer science. I also collaborated with [Dr. Zhuosheng Zhang](https://bcmi.sjtu.edu.cn/~zhangzs/) during my undergraduate years.
 
-I used to work as a research intern at Microsoft Research Asia (MSRA) in the [NLC group](https://www.microsoft.com/en-us/research/group/natural-language-computing/), guided by [Dr. Lei Cui](https://www.microsoft.com/en-us/research/people/lecu/). I worked on several interesting research topics related to Document AI, including webpage understanding and document Image foundation models.
-
-During May 2023 to Feb 2024, I worked closely with [Prof. Pengfei Liu](http://pfliu.com/) at [GAIR](https://plms.ai/) on various aspects of Large Language Models (LLMs), primarily focusing on the evaluation and alignment of LLMs.
-
-Currently, I am doing some research under the supervision of [Prof. Junxian He](https://jxhe.github.io/).
+I used to work as a research intern at Microsoft Research Asia (MSRA) in the [NLC group](https://www.microsoft.com/en-us/research/group/natural-language-computing/), guided by [Dr. Lei Cui](https://www.microsoft.com/en-us/research/people/lecu/). I worked on several interesting research topics related to Document AI, including webpage understanding and document Image foundation models. During May 2023 to Feb 2024, I worked closely with [Prof. Pengfei Liu](http://pfliu.com/) at [GAIR](https://plms.ai/) on various aspects of Large Language Models (LLMs), primarily focusing on the evaluation and alignment of LLMs.
 
 <a href='https://scholar.google.com/citations?user=UX7TpSYAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Flockon-n.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
@@ -31,6 +27,13 @@ Currently, I am doing some research under the supervision of [Prof. Junxian He](
 # Publications
 
 (* indicates equal contribution)
+
+<div class='paper-box-text' markdown="1">
+<font color="CornFlowerBlue">CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction
+</font>
+**Junlong Li**, Daya Guo, Dejian Yang, Runxin Xu, Yu Wu, Junxian He\\
+**Preprint, 2025** |  [PDF](https://arxiv.org/abs/2502.07316v3) | [Code](https://github.com/hkust-nlp/CodeIO) | [Page](https://codei-o.github.io/) | [HF Repo](https://huggingface.co/collections/hkust-nlp/codei-o-67a978e28fd926b56a4f55a2)
+</div>
 
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Diving into Self-Evolving Training for Multimodal Reasoning
