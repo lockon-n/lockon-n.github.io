@@ -32,21 +32,21 @@ I used to work as a research intern at Microsoft Research Asia (MSRA) in the [NL
 <font color="CornFlowerBlue">CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction
 </font>
 **Junlong Li**, Daya Guo, Dejian Yang, Runxin Xu, Yu Wu, Junxian He\\
-**Preprint, 2025** |  [PDF](https://arxiv.org/abs/2502.07316v3) | [Code](https://github.com/hkust-nlp/CodeIO) | [Page](https://codei-o.github.io/) | [HF Repo](https://huggingface.co/collections/hkust-nlp/codei-o-67a978e28fd926b56a4f55a2)
+**ICML 2025 Spotlight** |  [PDF](https://arxiv.org/abs/2502.07316v3) | [Code](https://github.com/hkust-nlp/CodeIO) | [Page](https://codei-o.github.io/) | [HF Repo](https://huggingface.co/collections/hkust-nlp/codei-o-67a978e28fd926b56a4f55a2)
 </div>
 
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Diving into Self-Evolving Training for Multimodal Reasoning
 </font>
 Wei Liu\*, **Junlong Li**\*, Xiwen Zhang, Fan Zhou, Yu Cheng, Junxian He\\
-**Preprint, 2024** |  [PDF](https://arxiv.org/abs/2412.17451) | [Code](https://github.com/hkust-nlp/mstar) | [Page](https://mstar-lmm.github.io/) | [HF Repo](https://huggingface.co/collections/hkust-nlp/m-star-676bbf9f749dbf511e7c4a32)
+**ICML 2025** |  [PDF](https://arxiv.org/abs/2412.17451) | [Code](https://github.com/hkust-nlp/mstar) | [Page](https://mstar-lmm.github.io/) | [HF Repo](https://huggingface.co/collections/hkust-nlp/m-star-676bbf9f749dbf511e7c4a32)
 </div>
 
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Programming Every Example: Lifting Pre-training Data Quality like Experts at Scale
 </font>
 Fan Zhou\*, Zengzhi Wang\*, Qian Liu, **Junlong Li**, Pengfei Liu\\
-**Preprint, 2024** |  [PDF](https://arxiv.org/abs/2409.17115) | [Code](https://github.com/GAIR-NLP/ProX) | [Page](https://gair-nlp.github.io/ProX) | [HF Repo](https://huggingface.co/gair-prox)
+**ICML 2025** |  [PDF](https://arxiv.org/abs/2409.17115) | [Code](https://github.com/GAIR-NLP/ProX) | [Page](https://gair-nlp.github.io/ProX) | [HF Repo](https://huggingface.co/gair-prox)
 </div>
 
 <div class='paper-box-text' markdown="1">
