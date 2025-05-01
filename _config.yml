@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Junlong Li"
-description              : "M.S. Student @SJTU"
+description              : "Ph.D. Student @HKUST"
 repository               : "lockon-n/lockon-n.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Junlong Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  bio              : "HKUST"
+  location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=UX7TpSYAAAAJ"
-  email            : "lockonn@sjtu.edu.cn"
+  email            : "lockonlvange@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -49,7 +49,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : shslockon
   tumblr           :
   twitter          : "lockonlvange"
   vine             :
