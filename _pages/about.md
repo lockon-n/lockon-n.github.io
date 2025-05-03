@@ -133,7 +133,8 @@ Zhuosheng Zhang, **Junlong Li**, Hai Zhao \\
 
 # Educations
 
-- *2022.09 - 2025.03 (expected)*, M.S.@SJTU, Computer Science & Engineering
+- *2025.09 - 2028.6 (expected)*, Ph.D.@HKUST, Computer Science & Engineering
+- *2022.09 - 2025.03*, M.S.@SJTU, Computer Science & Engineering
 - *2018.09 - 2022.06*, B.S.@SJTU, IEEE honor class, Computer Science.
 
 # Talks
@@ -145,6 +146,8 @@ Zhuosheng Zhang, **Junlong Li**, Hai Zhao \\
 - Reviewer: ACM MM, ARR, ICLR
 
 # Awards
+
+- Hong Kong PhD Fellowship Scheme, 2025
 
 - Yang Yuanqing Education Scholarship (top 0.3%), 2024
 
