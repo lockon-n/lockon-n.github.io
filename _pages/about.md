@@ -32,7 +32,7 @@ I used to work as a research intern at Microsoft Research Asia (MSRA) in the [NL
 <font color="CornFlowerBlue">CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction
 </font>
 **Junlong Li**, Daya Guo, Dejian Yang, Runxin Xu, Yu Wu, Junxian He\\
-**ICML 2025 Spotlight** |  [PDF](https://arxiv.org/abs/2502.07316v3) | [Code](https://github.com/hkust-nlp/CodeIO) | [Page](https://codei-o.github.io/) | [HF Repo](https://huggingface.co/collections/hkust-nlp/codei-o-67a978e28fd926b56a4f55a2)
+**ICML 2025 Oral** |  [PDF](https://arxiv.org/abs/2502.07316v3) | [Code](https://github.com/hkust-nlp/CodeIO) | [Page](https://codei-o.github.io/) | [HF Repo](https://huggingface.co/collections/hkust-nlp/codei-o-67a978e28fd926b56a4f55a2)
 </div>
 
 <div class='paper-box-text' markdown="1">
