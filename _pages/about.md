@@ -31,7 +31,7 @@ I used to work as a research intern at Microsoft Research Asia (MSRA) in the [NL
 <font color="CornFlowerBlue">The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution
 </font>
 **Junlong Li**\*, Wenshuo Zhao\*, Jian Zhao\*, Weihao Zeng\*, Haoze Wu\*, Xiaochen Wang, Rui Ge, Yuxuan Cao, Yuzhen Huang, Wei Liu, Junteng Liu, Zhaochen Su, Yiyang Guo, Fan Zhou, Lueyang Zhang, Juan Michelini, Xingyao Wang, Xiang Yue, Shuyan Zhou, Graham Neubig, Junxian He\\
-**Preprint, 2025** |  [PDF](https://arxiv.org/abs/2510.25726) | [Code](https://github.com/hkust-nlp/Toolathlon) | [Page](https://toolathlon.xyz/) | [Dataset](https://huggingface.co/datasets/hkust-nlp/Toolathlon-Trajectories)
+**ICLR 2026** |  [PDF](https://arxiv.org/abs/2510.25726) | [Code](https://github.com/hkust-nlp/Toolathlon) | [Page](https://toolathlon.xyz/) | [Dataset](https://huggingface.co/datasets/hkust-nlp/Toolathlon-Trajectories)
 </div>
 
 <div class='paper-box-text' markdown="1">
