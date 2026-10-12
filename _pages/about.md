@@ -38,7 +38,7 @@ Yuxuan Cao*, **Junlong Li**\*, Hao Li, Junxian He\\
 <font color="CornFlowerBlue">DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence
 </font>
 DeepSeek-AI, ... **Junlong Li**, ... (among 318 contributors)\\
-**Preprint, 2026* |  [PDF](https://arxiv.org/abs/2606.19348) 
+**Preprint, 2026** |  [PDF](https://arxiv.org/abs/2606.19348) 
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -52,7 +52,7 @@ DeepSeek-AI, ... **Junlong Li**, ... (among 318 contributors)\\
 <font color="CornFlowerBlue">DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models
 </font>
 DeepSeek-AI, ... **Junlong Li**, ... (among 263 contributors)\\
-**Preprint, 2025* |  [PDF](https://arxiv.org/abs/2512.02556) 
+**Preprint, 2025** |  [PDF](https://arxiv.org/abs/2512.02556) 
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -66,14 +66,14 @@ DeepSeek-AI, ... **Junlong Li**, ... (among 263 contributors)\\
 <font color="CornFlowerBlue">DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning
 </font>
 DeepSeek-AI, ... **Junlong Li**, ... (among 195 contributors)\\
-**Nature, 2025 Cover Article* |  [PDF](https://www.nature.com/articles/s41586-025-09422-z) 
+**Nature, 2025 Cover Article** |  [PDF](https://www.nature.com/articles/s41586-025-09422-z) 
 </div>
 
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">DeepSeek-V3 Technical Report
 </font>
 DeepSeek-AI, ... **Junlong Li**, ... (among 199 contributors)\\
-**Preprint, 2024* |  [PDF](https://arxiv.org/abs/2502.07316v3) 
+**Preprint, 2024** |  [PDF](https://arxiv.org/abs/2502.07316v3) 
 </div>
 
 <div class='paper-box-text' markdown="1">
